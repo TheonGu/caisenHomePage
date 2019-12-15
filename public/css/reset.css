@@ -1,0 +1,22 @@
+.logo {
+  width: 46px;
+  height: 43px;
+  margin: 10px 24px 10px 95px;
+  float: left;
+}
+.logoName{
+  width: 150px;
+  height: 40px;
+  margin: 15px 24px 8px 0;
+  float: left;
+}
+.ant-carousel .slick-slide img{
+  text-align: center;
+  height: 550px;
+  line-height: 550px;
+  overflow: hidden;
+}
+.home-content{
+  
+  background-color:#fff;
+}
